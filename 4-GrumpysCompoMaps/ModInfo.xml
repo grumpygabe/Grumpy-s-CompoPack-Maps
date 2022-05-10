@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="GrumpysCompoMaps" />
+		<Description value="Basic CompoPack maps for Darkness Falls.  Requires Darkness Falls with CompoPack installed." />
+		<Author value="grumpybeard" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
